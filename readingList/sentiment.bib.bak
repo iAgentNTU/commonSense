@@ -32,14 +32,16 @@
   Url                      = {http://www.aaai.org/Papers/Symposia/Spring/2006/SS-06-03/SS06-03-013.pdf}
 }
 
-@Book{Liu:Sentiment12,
+@Article{Liu:Sentiment12,
   Title                    = {Sentiment analysis and opinion mining},
   Author                   = {Liu, Bing},
-  Publisher                = {MORGAN\&CLAYPOOL},
+  Journal                  = {Synthesis Lectures on Human Language Technologies 5.1},
   Year                     = {2012},
-  Month                    = {May},
-  Series                   = {Sentiment12},
 
+  Month                    = {May},
+  Pages                    = {1--167},
+
+  Doi                      = {10.2200/S00416ED1V01Y201204HLT016},
   File                     = {:LiuB_Sentiment12.pdf:PDF},
   Owner                    = {IdleHao},
   Timestamp                = {2014.12.15},
