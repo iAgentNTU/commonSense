@@ -2,7 +2,7 @@
 
 | actionItem                                            | deadline   | status      |
 |-------------------------------------------------------|------------|-------------|
-| [Learning] Stanford parser rule and usage | 2014/12/24 | **ongoing** |
+| [Study] Stanford parser rule and further usage | 2014/12/24 | **ongoing** |
 | [Data] Parse data with dependency tree | 2014/12/24 | **ongoing** |
 | [Data] Extract single sentnece by dependency tree | 2014/12/25 | **ongoing** |
 | [Data] Figure out noun phrase with dependency tree or statistics | 2014/12/25 | **ongoing** |
