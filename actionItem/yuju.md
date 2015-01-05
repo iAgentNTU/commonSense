@@ -8,6 +8,7 @@
 | [Data] Start label training data | 2015/01/09 | ongoing |
 | [Paper] EMNLP'14 | 2015/01/18 | ongoing |
 | [Paper] ACL'14   | 2015/01/18 | ongoing |
+
 |-------------------------------------------------------|------------|-------------|
 | [Study] Stanford parser rule and further usage | 2014/12/24 | closed |
 | [Data] Parse data with dependency tree | 2014/12/24 | closed |
