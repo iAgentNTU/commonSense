@@ -3,7 +3,7 @@
 | actionItem                                            | deadline   | status      |
 |-------------------------------------------------------|------------|-------------|
 | [Data] Count tf, idf of verb in Sinica Corpus | 2014/01/06 | ongoing |
-| [Data] Extract single sentnece by dependency tree | 2014/12/25 | ongoing |
+| [Data] Extract single sentnece by dependency tree | 2015/01/09 | ongoing |
 | [Data] Compare sentence patterns corresponding with different verbs | 2015/01/09 | ongoing |
 | [Data] Start label training data | 2015/01/09 | ongoing |
 | [Paper] EMNLP'14 | 2015/01/18 | ongoing |
